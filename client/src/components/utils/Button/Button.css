@@ -1,0 +1,9 @@
+.btn{
+    outline: none; 
+    border:none;
+}
+
+.btn-primary{
+    color: white;
+    background-color: rgb(153, 149, 146);
+}
